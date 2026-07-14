@@ -1,0 +1,6 @@
+{
+  "name": "ViralScout AI",
+  "description": "Discover emerging creators, fast-growing channels, and rising viral content across YouTube, TikTok, Instagram, and more before they go mainstream.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
